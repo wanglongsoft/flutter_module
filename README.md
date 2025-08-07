@@ -1,6 +1,6 @@
 # flutter_module
 
-A new Flutter project.
+一个flutter module demo,可打包生成video_player_android_release-1.0.aar和flutter_release-1.0.aar
 
 ## Getting Started
 
