@@ -1,6 +1,6 @@
 # flutter_module
 
-一个flutter module demo,可打包生成video_player_android_release-1.0.aar和flutter_release-1.0.aar
+一个flutter module demo,可打包生成video_player_android_release-1.0.aar和flutter_release-1.0.aar，测试页有一个简单的股票列表页，支持上下，左右滑动，首列，首行固定
 
 ## Getting Started
 
